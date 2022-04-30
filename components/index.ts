@@ -1,1 +1,2 @@
-// Global components export
+export * from "./Container";
+export * from "./Header";

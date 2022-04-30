@@ -9,7 +9,10 @@ module.exports = {
         poppins: ["Poppins", "sans-serif"],
       },
       // Theme colors go here
-      colors: {},
+      colors: {
+        primary: "#2DC76D",
+        secondary: "#0F0F2C",
+      },
     },
   },
   plugins: [],
