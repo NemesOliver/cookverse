@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <meta name="description" content="Recipe website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main></main>
+      <main>Home Page</main>
     </>
   );
 };
